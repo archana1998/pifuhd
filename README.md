@@ -2,9 +2,6 @@
 
 [![report](https://img.shields.io/badge/arxiv-report-red)](https://arxiv.org/pdf/2004.00452.pdf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt?usp=sharing)
 
-Personal Colab Demo: https://colab.research.google.com/drive/1Ka7PxGkJC2FrFtm-GhveYFiDFOk-d7sH?usp=sharing
-
-
 News:
 * \[2020/06/15\] Demo with Google Colab (incl. visualization) is available! Please check out [#pifuhd on Twitter](https://twitter.com/search?q=%23pifuhd&src=recent_search_click&f=live) for many results tested by users!
 
